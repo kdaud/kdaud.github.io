@@ -1,0 +1,46 @@
+body {
+    font-family: "Lato", sans-serif;
+    text-align-last: center;
+    background-color:black;
+    background-image:
+    radial-gradient(red, rgba(255,255,255,.2) 2px, transparent 1000px),
+    radial-gradient(red, rgba(255,255,255,.15) 1px, transparent 300px),
+    radial-gradient(red, rgba(255,255,255,.1) 2px, transparent 0),
+    radial-gradient(rgba(255,255,255,.4), rgba(25,55,150,.1) 2px, transparent 30px);
+    background-size: 450px 50px, 350px 350px, 150px 250px, 150px 150px;
+    background-position: 0 0, 40px 60px, 130px 210px, 70px 10px;
+  }
+  
+  ul {
+    list-style-type: none;
+    margin-left: -8px;
+    margin-bottom: 0;
+    overflow: hidden;
+    background-color: #333;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover:not(.active) {
+    background-color: #111;
+  }
+  
+  
+  .kdaud-img:before {
+    content:url('../images/kdaud.jpeg');
+  }
+  
