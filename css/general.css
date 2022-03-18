@@ -1,7 +1,7 @@
 body {
     font-family: "Lato", sans-serif;
     text-align-last: center;
-    background-color:black;
+    background-color:olivedrab;
     background-image:
     radial-gradient(red, rgba(255,255,255,.2) 2px, transparent 1000px),
     radial-gradient(red, rgba(255,255,255,.15) 1px, transparent 300px),
@@ -41,6 +41,7 @@ body {
   
   
   .kdaud-img:before {
-    content:url('../images/kdaud.jpeg');
+    content:url('../images/daud.jpg'); 
+
   }
   
