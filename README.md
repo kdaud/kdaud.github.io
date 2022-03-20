@@ -1,2 +1,2 @@
 
-Kakumirizi's personal website at https://kdaud.github.io
+Personal website: https://kdaud.github.io
