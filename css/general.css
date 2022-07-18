@@ -16,7 +16,7 @@ body {
     margin-left: -8px;
     margin-bottom: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: rgb(110, 106, 106);
     position: fixed;
     bottom: 0;
     width: 100%;
