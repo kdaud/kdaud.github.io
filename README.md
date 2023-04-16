@@ -1,2 +1,2 @@
 
-Daud's personal website at https://kdaud.github.io
+Daud's website at https://kdaud.github.io
